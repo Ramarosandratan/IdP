@@ -76,7 +76,8 @@ Ce projet consiste à développer un fournisseur d'identité (IdP) avec une API 
 **8. Livrables :**
 
 * **Archive ZIP :** Contenant le code source, les instructions de lancement et la collection Postman.
-* **Liste TODO :** Avec les tâches à accomplir et leur affectation aux membres de l'équipe. link: https://docs.google.com/spreadsheets/d/14Y1N1uY1NLFILozMZSLSuBJScVtQY2m_s2X9kR4YFu4/edit?usp=sharing
+* **Liste TODO :** Avec les tâches à accomplir et leur affectation aux membres de l'équipe.
+* **Google Drive :** Liste des tâches à accomplir. Lien vers le Google Drive: <https://docs.google.com/spreadsheets/d/14Y1N1uY1NLFILozMZSLSuBJScVtQY2m_s2X9kR4YFu4/edit?usp=sharing>
 
 **Exemple de structure de projet (Maven) :**
 
